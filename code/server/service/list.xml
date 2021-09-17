@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file_list>
+    <file>service/fileA</file>
+    <file>service/fileAA</file>
+    <file>service/fileAAA</file>
+    <file>service/fileAAAA</file>
+    <file>service/list.xml</file>
+    <file>service/ncp_host</file>
+</file_list>
